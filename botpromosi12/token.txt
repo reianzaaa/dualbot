@@ -1,0 +1,3 @@
+api_id: 23046524
+api_hash: c24340af7bd47d9ce08dc153a14bf5cc
+phone_number: +6289531320339

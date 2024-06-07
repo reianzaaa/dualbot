@@ -1,0 +1,3 @@
+api_id: 25805647
+api_hash: 1d2c56a6dc37f6749b6d19034bb4511e
+phone_number: +6285643290531

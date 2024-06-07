@@ -1,0 +1,3 @@
+api_id: 22670631
+api_hash: 556ef6e5e8b2534e4393e0c63fbc0c87
+phone_number: +6288212628249

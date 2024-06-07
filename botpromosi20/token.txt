@@ -1,0 +1,3 @@
+api_id: 25321123
+api_hash: 641e9b6161e5e883ce09c70049de097e
+phone_number: +6283180574026

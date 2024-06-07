@@ -1,0 +1,3 @@
+api_id: 20985653
+api_hash: 6676077af3ec4fb64e8bbbb4463ab69d
+phone_number: +6282335758179

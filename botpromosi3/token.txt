@@ -1,0 +1,3 @@
+api_id: 27394832
+api_hash: e133aea45a1052a5a7624185fff0ab3f
+phone_number: +6288210006320

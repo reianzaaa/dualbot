@@ -1,0 +1,3 @@
+api_id: 17918615
+api_hash: f27a117bbe6486304656d0de4771d530
+phone_number: +62895402504291
