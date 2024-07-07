@@ -1,3 +1,3 @@
-api_id: 16327974
-api_hash: 36ba56d55d8d20f06d3ad65a17de3f9c
-phone_number: +6285854520005
+api_id: 23569157
+api_hash: 931999183dcece92e1edff75e66c1dd8
+phone_number: +62 831 70036596

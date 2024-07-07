@@ -1,3 +1,3 @@
-api_id: 20697038
-api_hash: 3efe931af58b4c580a88c4b1faff3e75
-phone_number: +6283137565683
+api_id: 21461979
+api_hash: ce1cabc39e76d607816bfd768e8fb14a
+phone_number: +62 896 75747164

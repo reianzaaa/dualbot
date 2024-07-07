@@ -1,3 +1,3 @@
-api_id: 22677682
-api_hash: 8863b5c8a464c9324905e9abd16c5bd0
-phone_number: +6285772468248
+api_id: 22532967
+api_hash: 65b6d82b1e07d86531331fa0e0f5b231
+phone_number: +6289603528881

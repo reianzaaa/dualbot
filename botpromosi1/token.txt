@@ -1,3 +1,3 @@
-api_id: 24112105
-api_hash: fedb8de32dca25be518d442f13c978e6
-phone_number: +6289509574358
+api_id: 26708338
+api_hash: da1cbff2b4005fd9de52e3eadf86794a
+phone_number: +6289509808108

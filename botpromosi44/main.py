@@ -55,7 +55,7 @@ def main():
     if pilihan == '1':
         watermark_pilihan = input("Gunakan watermark? (y/n): ").lower()
         watermark = "yes" if watermark_pilihan == 'y' else "no"
-        watermark_text = "__**JASEB BY @ZYREIJASEB**__"
+        watermark_text = "**JASEB OTOMATIS BY @ZYREIJASEB**"
     else:
         watermark = "no"
         watermark_text = ""

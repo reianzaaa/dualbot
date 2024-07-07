@@ -1,3 +1,3 @@
-api_id: 26927078
-api_hash: 3f655605f32c8fa3ff4ba3d984d1604b
-phone_number: +6283843891460
+api_id: 25320471
+api_hash: e77602085047cbdc0edc682d88381b63
+phone_number: +62 882 89548985
